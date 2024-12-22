@@ -1,0 +1,15 @@
+{
+    "name": "multiversx-token-claimer",
+    "version": "1.0.0",
+    "description": "A script to claim tokens on the MultiversX blockchain using generated accounts.",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "node src/index.js"
+    },
+    "dependencies": {
+      "@multiversx/sdk-core": "^1.0.0",
+      "axios": "^0.27.2"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+  }
